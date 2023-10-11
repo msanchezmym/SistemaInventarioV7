@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
+    "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
   },
   "projects": {
-    "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+    "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectUniqueName": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "projectName": "SistemaInventario.AccesoDatos",
-        "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\msanchez\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\obj\\",
+        "outputPath": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\msanchez\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\obj\\",
+        "outputPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\msanchez\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",

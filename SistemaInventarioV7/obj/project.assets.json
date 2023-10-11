@@ -11788,11 +11788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\SistemaInventarioV7\\SistemaInventarioV7\\SistemaInventario.csproj",
+      "projectUniqueName": "E:\\C#\\SistemaInventario\\SistemaInventarioV7\\SistemaInventario.csproj",
       "projectName": "SistemaInventario",
-      "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventarioV7\\SistemaInventario.csproj",
+      "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventarioV7\\SistemaInventario.csproj",
       "packagesPath": "C:\\Users\\msanchez\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventarioV7\\obj\\",
+      "outputPath": "E:\\C#\\SistemaInventario\\SistemaInventarioV7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11810,14 +11810,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
-              "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
+            "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+              "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
             },
-            "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }

@@ -2833,11 +2833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectUniqueName": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "projectName": "SistemaInventario.AccesoDatos",
-      "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\msanchez\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.AccesoDatos\\obj\\",
+      "outputPath": "E:\\C#\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2854,11 +2854,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "E:\\C#\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }

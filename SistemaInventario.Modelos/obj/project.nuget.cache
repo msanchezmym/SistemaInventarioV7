@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4KqrZtLt2T3Kd2OiKJanATDWA/eT4k4lKCu/RAEwNsmrlP0jvV+zM8xYgZ+h7RMwQ6XqTTedE2BVIB5FFynLg==",
+  "dgSpecHash": "1YRVIpo3yAQKw9AL12csV9jVfEzzcw7UKXqUBQ5fS/3ggUk5YXmTsJJTSZ9GVTGL61MRMgzHzdvTz/f7hHrf+A==",
   "success": true,
-  "projectFilePath": "E:\\C#\\SistemaInventarioV7\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+  "projectFilePath": "E:\\C#\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
